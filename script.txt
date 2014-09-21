@@ -1,0 +1,13 @@
+SCENE 1
+
+Hello, my name is Mark Diaz and I'm here to talk to you about Agile Zen. AgileZen is a web-based project management software product designed for use in the Agile software development process. AgileZen focuses on organizing tasks in a visual manner with a simple elegance that can be attributed to a Zen influence to assist in management. You can create a free account by going to agilezen.com, clicking the "Sign up" button on the top right, and selecting a free plan which allows for one project, one collaborator, and email. 
+
+Let's jump right in to AgileZen and see what we're working with.
+
+
+This is the view of the task board of a new project. This project board has already been customized to illustrate some of the flexibility of the AgileZen kanban--a Japanese word that comes from lean manufacturing processes and literally translates to "visual card". Each column on AgileZen's kanban board represents the phases that units of work go through in their development lifecycle. In the Agile software development process these units of work are known as user stories and are to progress through--going from introdcution to completion by going from left to right--these phases including the phases to the extreme left and right which are "Backlog" and "Accepted".  In this scenario our board has been customized to represent a specific development team's workload so the phases consist of  "Backlog", "Ready", "Working", "Ready for Testing", "Testing", "Ready for Acceptance", and "Acceptance."
+
+Let's create a story. 
+
+
+vuP6ufRa 
