@@ -16,5 +16,12 @@ This is the view of the task board of a new project. This project board has alre
 
 Let's create a story. 
 
+SCENE 3 - Story Creation
 
-vuP6ufRa 
+The story creation screen includes the important fields for a user story. Entering the user story is a straight-forward affair and can be embellished upon with details and tasks. [ctrl alt t]. In this instance we will use the details field to include direction to additional technical information and we will use tasks to track the acceptance criteria. [ctrl alt y details and ctrl alt u task]. At this point we can hang our story on the board or insert it into the backlog. 
+
+This is purely educational because our Product Owner has written all of the stories for this sprint so far.
+
+SCENE 4 - Working a Story
+
+ 
